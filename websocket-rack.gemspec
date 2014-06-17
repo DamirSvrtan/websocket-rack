@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ["bernard.potocki@imanel.org"]
   s.homepage    = "http://github.com/DamirSvrtan/websocket-rack"
   s.summary     = %q{Rack-based WebSocket server for Noodles Web Framework}
-  s.description = %q{Rack-based WebSocket server for Noodles Web Framework. An fork from http://github.com/imanel/websocket-rack}
+  s.description = %q{Rack-based WebSocket server for Noodles Web Framework. Fork from http://github.com/imanel/websocket-rack}
 
   s.add_dependency 'rack'
   s.add_dependency 'em-websocket', '~> 0.3.8'
